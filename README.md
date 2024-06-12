@@ -25,6 +25,7 @@ Sean Singer
 There will be a screenshot and link to the demo video.
 https://drive.google.com/file/d/1qm__1ezHEVr36Lw9kEmpsvJQstG_WDpT/view
 ![alt text](<Screenshot 2024-06-12 at 16.21.06.png>)
+Github: https://github.com/S1NGS1NG80/README-GEN.git
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
